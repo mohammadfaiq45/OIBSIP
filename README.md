@@ -5,9 +5,9 @@ Welcome to the **Oasis Infobyte Data Analytics Internship** repository! This rep
 ## About the Internship
 As a Data Analytics Intern at Oasis Infobyte, my focus is on developing and enhancing data analysis skills through real-world tasks. Each task in this repository showcases different aspects of data analysis, data visualization, and reporting.
 
-## 📁 Projects
-
-### Project 1: Exploratory Data Analysis (EDA) on Retail Sales
+### 📁 Projects
+---
+### 1: Exploratory Data Analysis (EDA) on Retail Sales
 
 **Description**  
 This project involves exploring and analyzing retail sales data to uncover patterns, trends, and insights. The analysis covers customer demographics, purchasing behaviors, product popularity, and time-based purchasing patterns to help the business make informed decisions.
@@ -20,7 +20,7 @@ This project involves exploring and analyzing retail sales data to uncover patte
 
 **Technologies Used**  
 - Python, Pandas, Matplotlib, Seaborn, Plotly
----
 
 Stay tuned for additional projects and updates!
 
+---

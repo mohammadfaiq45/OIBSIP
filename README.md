@@ -20,7 +20,7 @@ This project involves exploring and analyzing retail sales data to uncover patte
 
 **Technologies Used**  
 - Python, Pandas, Matplotlib, Seaborn, Plotly
-
+---
 
 Stay tuned for additional projects and updates!
 

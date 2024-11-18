@@ -62,6 +62,16 @@ This project illustrates how clustering and customer segmentation can help an e-
 - **Matplotlib & Seaborn**: Data visualization
 - **Scikit-Learn**: K-means clustering
 
+## 3: Data Cleaning Project
+
+**Description**  
+This project focuses on cleaning a dataset by addressing issues such as missing values, duplicates, standardization, and outliers. The cleaning process involves ensuring data integrity, handling missing data, removing duplicates, standardizing formats, and detecting and managing outliers. The goal is to prepare the data for accurate analysis and modeling.
+
+**Key Insights**  
+- **Missing Data Handling**: Addressed missing values by imputing or removing them to ensure data completeness.
+- **Duplicate Removal**: Identified and removed duplicate records to maintain data uniqueness and quality.
+- **Standardization**: Ensured consistent formatting across categorical and numeric variables for accurate analysis.
+- **Outlier Detection**: Identified and managed outliers to prevent them from skewing results and analyses.
 
 Stay tuned for additional projects and updates!
 
